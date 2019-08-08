@@ -1,0 +1,18 @@
+/************************************************
+	LAED1 - Trabalho Pratico 1
+	Aluno: Igor Miranda Oliveira
+	Matricula: 201312040080
+	Data: 14/09/2017
+************************************************/
+Item: 0 - Peso: 1 - Valor: 5
+Item: 1 - Peso: 2 - Valor: 10
+Item: 5 - Peso: 3 - Valor: 8
+Item: 7 - Peso: 1 - Valor: 8
+Item: 12 - Peso: 1 - Valor: 12
+Item: 14 - Peso: 2 - Valor: 9
+Item: 16 - Peso: 4 - Valor: 8
+Item: 18 - Peso: 2 - Valor: 6
+Item: 20 - Peso: 3 - Valor: 8
+Item: 22 - Peso: 1 - Valor: 8
+Peso Total: 20
+Valor Total: 82
